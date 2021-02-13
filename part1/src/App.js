@@ -9,7 +9,7 @@ const Description = () => {
 function App() {
   return (
     <div className="App">
-      <Mensajes color = 'red' msg='Estamos trabajando en mi nuevo negocio' />
+      <Mensajes color = 'red' msg='Estamos trabajando en mi nuevo negocio sobre suscripcion de mascotas' />
       <Description />
     </div>
   );
